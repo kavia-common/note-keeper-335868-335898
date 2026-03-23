@@ -1,0 +1,2 @@
+{ "working_directory": "/home/kavia/workspace/code-generation",
+ "command": "python test_db.py" }
